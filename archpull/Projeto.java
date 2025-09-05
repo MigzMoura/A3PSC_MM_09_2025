@@ -23,4 +23,4 @@ public class Projeto {
     public String toString() {
         return "Projeto: " + nome + ", Equipe: " + (equipe != null ? equipe.getNome() : "Nenhuma equipe alocada");
     }
-}
+}//criar o sistema que aloca os usuarios as equipes e as equipes aos projetos.
